@@ -2,7 +2,7 @@
 
 int main(){
 
-    char nome[20];
+    char nome[10];
 
     printf("Ola eu sou o N1, como eh seu nome?\n");
     scanf("%s", &nome);
