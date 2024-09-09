@@ -31,4 +31,6 @@ dv3 = (25/38.65)*100;
 
 printf("\nO dividend yield de que acao eh: \nAcao 1; %.2f,\nAcao2: %.2f,\nAcao3: %.2f", dv1, dv2, dv3);
 
+return 0;
+
 }
